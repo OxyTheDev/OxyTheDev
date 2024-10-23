@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Expert** dedica
 
 - **[Shark Byte Advanced Crypter](https://github.com/OxyTheDev/SharkByte-Advanced-Crypter-Software)**: A powerful crypter and obfuscator designed for developers to protect their software from reverse engineering and unauthorized access.
   
-- **[Cybersecurity Resources](https://www.trendmicro.com/vinfo/us/security/definition/crypter)**: A collection of tools, libraries, and resources aimed at helping developers understand and implement secure coding practices.
+- **[What Is Crypter?](https://www.trendmicro.com/vinfo/us/security/definition/crypter)**: A Good Explanation What Is Crypter/Crypting..
 
 ## 📚 Education & Certifications
 
