@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Shark Byte
-
-Welcome to my GitHub profile! I’m a passionate **Cybersecurity Expert** dedicated to enhancing software security and protecting intellectual property. With extensive experience in cryptography, obfuscation, and secure coding practices, I aim to empower developers and organizations to safeguard their applications against emerging threats.
-
 ## 🔒 About Me
 
 - 🔍 **Expertise**: Specializing in creating robust crypters and obfuscators to defend against reverse engineering and unauthorized access.
